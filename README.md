@@ -26,6 +26,7 @@ print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
 ![image](https://github.com/Sabeeha23/Read-from-CSV/assets/150231876/8fcc1a1a-e4c0-40b5-b85b-205967a33148)
+
 ![Screenshot 2023-12-29 232305](https://github.com/Sabeeha23/Read-from-CSV/assets/150231876/99c0fd86-9ca8-4101-b83e-9c5c0cec9c27)
 
 
